@@ -82,70 +82,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJAhX.jpg",
+      "title": "standof version 1",
+        "text_Content": "Standoff version 0.22.3 is an open-source tool that is used for annotating text data with entity and relation labels. It is a software library that is designed to work with Natural Language Processing (NLP) tools to aid in the annotation of text data. In this article, we will explore the features and capabilities of Standoff version 0.22.3, its benefits, and its applications.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJ7Bs.jpg",
+      "title": "standof version 2",
+        "text_Content": "Standoff version 0.22.3 is a tool that enables the annotation of text data with entity and relation labels. It uses a stand-off annotation approach, where the annotations are stored in a separate file rather than being integrated into the original text file. This approach allows for more efficient annotation and easier management of annotations.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJRQn.jpg",
+      "title": "standof version 3",
+        "text_Content": "Another important feature of Standoff version 0.22.3 is its ability to handle large datasets. It is optimized for performance, and can efficiently annotate large datasets without running out of memory or slowing down. This makes it a useful tool for researchers and companies that work with large amounts of text data.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJYEG.jpg",
+      "title": "standof version 4",
+        "text_Content": "Standoff version 0.22.3 also includes a variety of tools for working with annotated data. It includes utilities for merging and splitting annotations, converting between different annotation formats, and visualizing annotations. These tools make it easy to manage and work with annotated data, and help to streamline the annotation workflow.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJa4f.jpg",
+      "title": "standof version 5",
+        "text_Content": "One of the benefits of using Standoff version 0.22.3 is that it can help to improve the accuracy and consistency of NLP models. By providing high-quality annotated data, researchers and companies can train and test NLP models with greater accuracy and confidence. This can lead to better performance on a variety of NLP tasks, including named entity recognition, relation extraction, and coreference resolution.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJ0Yl.jpg",
+      "title": "standof version 6",
+        "text_Content": "Standoff version 0.22.3 has a variety of applications in the field of NLP. One common use case is in the annotation of biomedical text data. Researchers in the biomedical field often work with large amounts of text data, and require accurate and consistent annotations for their research. Standoff version 0.22.3 can be used to annotate biomedical text data with named entities, such as genes, proteins, and diseases, as well as relations between these entities. This can help to improve the accuracy of NLP models for tasks such as drug discovery, clinical decision support, and biomedical literature mining.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HhcJl24.jpg",
+      "title": "standof version 7",
+        "text_Content": "Another common use case for Standoff version 0.22.3 is in the annotation of social media data. Social media data is a rich source of information for NLP applications, but can be challenging to annotate due to its informal and unstructured nature. Standoff version 0.22.3 can be used to annotate social media data with named entities such as people, organizations, and locations, as well as events and sentiment. This can help to improve the accuracy of NLP models for tasks such as sentiment analysis, opinion mining, and social network analysis.",
+        "text_Content_1": ""
 
 
 
